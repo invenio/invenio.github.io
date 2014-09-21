@@ -54,6 +54,7 @@ body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
   color: #6d6d6d;
+  height: 100%;
 }
 
 a {
@@ -85,7 +86,6 @@ header h2 {
 }
 
 #container {
-  background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
   height: 100%;
   width: 100%;
   text-align: center;
