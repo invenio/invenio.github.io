@@ -93,8 +93,8 @@ header h2 {
 }
 
 .inner {
-  width: 620px;
-  margin: 0 auto;
+  display: table-cell;
+  vertical-align: middle;
 }
 
 #container .inner img {
