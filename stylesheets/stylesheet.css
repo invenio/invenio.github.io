@@ -90,6 +90,8 @@ header h2 {
   width: 100%;
   text-align: center;
   display: table;
+  position: fixed;
+  top: 0;
 }
 
 .inner {
