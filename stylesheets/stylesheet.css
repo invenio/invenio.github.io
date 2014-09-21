@@ -86,7 +86,10 @@ header h2 {
 
 #container {
   background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
-  min-height: 595px;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  display: table;
 }
 
 .inner {
